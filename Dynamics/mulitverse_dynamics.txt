@@ -1,0 +1,14 @@
+These are the dynamics of the multiverse as demonstrated in Scrypt.
+
+Multiverse Plane - a two sided, 2D plane on which worlds are fixed. See
+"multiverse_plane_1.png".
+
+World - a universe represented by a line on a multiverse plane that can be
+inhabited. A, B, C, and D in "multiverse_plane_1.png" are each worlds.
+
+Inverse World - a world that is on the opposite side of the multiverse plane
+from its counterpart.
+
+World Intersection - a point on a multiverse plane at which two world lines
+meet. AC, AD, BC, and BD in "multiverse_plane_1.png" are world
+intersections.
