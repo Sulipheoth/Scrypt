@@ -1,4 +1,4 @@
 The rules of magic and tech:
 Every world at its birth is gifted with a seed of magic or tech.  This seed will benefit the people of that world throughout its history.  Every world has the ability to develop tech or magic through their own persistence and willpower, but will find it much easier to channel its course through the means of the seed it was given.  No worlds were ever gifted with both seeds.
-As a world increases in magic, its inverse increases in tech.
-As a world increases in tech, its inverse increases in magic.
+As a world increases in magic, its inverse decreases in magic.
+As a world increases in tech, its inverse decreases in tech.
